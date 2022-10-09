@@ -1,1 +1,74 @@
+22 °C
+(1 hour ago)
 
+integral sin(x) dx = -cos(x) + constant
+
+d/dx(csc(x)) = -cot(x) csc(x)
+
+11
+
+2
+
+5307
+
+4742132
+
+temperature | 15 °C
+relative humidity | 51% (dew point: 5 °C)
+wind speed | 1 m/s
+(37 minutes ago)
+
+43 (1953 - i)
+
+51
+
+x = 1/4 (4 π n + π), n element Z
+
+x = 2 π n + π - sin^(-1)(5894584), n element Z
+
+integral sqrt(cot(x))dx = (cot^(3/2)(x) (tan^(-1)((-cot^2(x))^(1/4)) - tanh^(-1)((-cot^2(x))^(1/4))))/(-cot^2(x))^(3/4) + constant
+
+d/dx(sqrt(cot(x))) = -(csc^2(x))/(2 sqrt(cot(x)))
+
+2
+
+-401
+
+3556
+
+3334686
+
+4686
+
+998
+
+x = 1/4 (4 π n + π), n element Z
+
+temperature | 13 °C
+conditions | clear
+relative humidity | 88% (dew point: 11 °C)
+wind speed | 1 m/s
+(37 minutes ago)
+(using weather station RJTY: 125 km ESE and 830 meters below center of Japan)
+
+Tokyo, Japan
+
+New Delhi, Delhi, India
+
+Q: What's purple, round, and doesn't get much for Christmas? A: A finitely presented grape.
+(according to what passes for mathematical humor (my favorite sub-genre), drawn from several sources but primarily from P. Renteln and A. Dundes in their paper "Sampling of Mathematical Folk Humor" in Notices of the American Mathematical Society, vol. 52, pp. 24-34, 2005)
+
+653726
+
+Q: Without geometry, life is pointless.
+(according to what passes for mathematical humor (my favorite sub-genre), drawn from several sources but primarily from P. Renteln and A. Dundes in their paper "Sampling of Mathematical Folk Humor" in Notices of the American Mathematical Society, vol. 52, pp. 24-34, 2005)
+
+Cairo, Egypt
+
+d/dx(cos(x)) = -sin(x)
+
+integral sqrt(cot(x))dx = (cot^(3/2)(x) (tan^(-1)((-cot^2(x))^(1/4)) - tanh^(-1)((-cot^2(x))^(1/4))))/(-cot^2(x))^(3/4) + constant
+
+4666
+
+423666
